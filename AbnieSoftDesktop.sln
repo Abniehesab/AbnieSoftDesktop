@@ -31,8 +31,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsApp", "WindowsApp\Wi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "Persistence\Persistence.csproj", "{9F35F00D-CFA8-429F-B25D-140977C5C85E}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Reporto", "Reporto\Reporto.vdproj", "{12219E82-0771-4DE6-B17B-5C2D15888744}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,8 +61,6 @@ Global
 		{9F35F00D-CFA8-429F-B25D-140977C5C85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F35F00D-CFA8-429F-B25D-140977C5C85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F35F00D-CFA8-429F-B25D-140977C5C85E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{12219E82-0771-4DE6-B17B-5C2D15888744}.Debug|Any CPU.ActiveCfg = Debug
-		{12219E82-0771-4DE6-B17B-5C2D15888744}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
